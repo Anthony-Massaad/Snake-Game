@@ -1,2 +1,2 @@
 # Snake-Game
-Snake game built using pygame and classes
+Snake game built using pygame and full oop
